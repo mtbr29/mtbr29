@@ -23,7 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="30" width="40" /></a>
 </p>
-
+<a href="https://mtbr29.dev/" target="blank"><img align="center" src="https://th.bing.com/th?id=OSK.e5a42430931633d5f559fb3fdaf28ec9&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.3&pid=SANGAM" alt="html" height="30" width="40" /></a>
+</p>
 
 ---------------
 
@@ -33,9 +34,3 @@ You can click the Preview link to take a look at your changes.
 
 ---------------
 
-
-
-### **My Github Stat's:**
-
-![](https://github-readme-stats.vercel.app/api?username=mtbr29_icons=true&theme=merko&show=reviews,discussions_started,discussions_answered)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtbr29&layout=donut&show_icons=true&theme=merko)
