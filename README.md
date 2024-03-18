@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 ### ***Discord Status***
 
-[![https://discord.com/users/1026891696929255525](https://discord.c99.nl/widget/theme-2/1106620371307864085.png)
+[![https://discord.com/users/1026891696929255525](https://discord.c99.nl/widget/theme-3/1026891696929255525.png))
 
 ---------------
 
