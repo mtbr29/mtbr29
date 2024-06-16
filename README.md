@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - discord:
 - https://dsc.gg/m29
+- https://dsc.gg/pulsarfn
 - website
 - https://mtbr29.dev
 <!---
