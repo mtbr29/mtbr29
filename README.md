@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 ### ***Discord Status***
 
 [![https://discord.com/users/1026891696929255525](https://discord.c99.nl/widget/theme-3/1026891696929255525.png))
+[![Discord Presence](https://lanyard.cnrad.dev/api/1026891696929255525)](https://discord.com/users/1026891696929255525)
 
 ---------------
 
