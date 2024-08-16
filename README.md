@@ -1,11 +1,5 @@
 
-- 👀 I’m interested with Fortnite glitchs
-- 🌱 I’m currently learning Python
-- discord:
-- https://dsc.gg/m29
-- https://dsc.gg/pulsarfn
-- website
-- https://mtbr29.dev
+
 <!---
 mtbr29/mtbr29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ## ***Hi There 👋, I'm Mtbr29***
 
 
-
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/mtbr29?cardType=github&theme=dark&preferLogin=false&Text=1DDD13&Title=21DD00)](https://git.io/awesome-stats-card)
 ---
 
 ### Languages and Tools:
