@@ -13,26 +13,17 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 
-<p align='center'>
-
-  <img src="https://img.shields.io/badge/batch%20-%23000000.svg?&style=for-the-badge&logo=educative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/rss%20-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white"/> 
-<br></p>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
+<p align="center">
+  <a href="https://mtbr29.dev">
+    <img src="https://skillicons.dev/icons?i=aiscript,blender,css,discord,bots,dotnet,github,html,htmx,php,py," />
+  </a>
+</p>
 
 ---------------
 
 ### ***Discord Status***
 
-[![https://discord.com/users/1026891696929255525](https://discord.c99.nl/widget/theme-3/1026891696929255525.png))
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1026891696929255525)](https://discord.com/users/1026891696929255525)
 
 ---------------
