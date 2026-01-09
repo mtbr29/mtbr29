@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://mtbr29.dev">
-    <img src="https://skillicons.dev/icons?i=aiscript,blender,css,discord,bots,dotnet,github,html,htmx,php,py," />
+    <img src="https://skillicons.dev/icons?i=blender,css,discord,bots,dotnet,github,html,htmx,php,py," />
   </a>
 </p>
 
